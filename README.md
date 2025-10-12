@@ -1,5 +1,5 @@
 # CGJCR
-Counterfactual Generation with Joint Causal Representation in GANs
+Dianlong You, Chuan Lu, Zhijuan Wu, Xiaoyi Ge, Di Wu, Counterfactual generation with joint causal representation for generative adversarial networks, Neural Networks, Volume 194, 2026, 108156, ISSN 0893-6080.
 
 
 # Data
